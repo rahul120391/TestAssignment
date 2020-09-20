@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="search_by">Search by title</string>
+    <string name="albums">Albums</string>
+    <string name="gallery">Gallery</string>
+    <string name="errorWhileFetchingData">Error While Fetching Data</string>
+    <string name="noResultFound">No Result Found</string>
+    <string name="noInternetAvailable">No Internet Available</string>
+</resources>
